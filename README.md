@@ -1,1 +1,1 @@
-# Divination
+# Personal Data Science Projects
